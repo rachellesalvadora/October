@@ -1,0 +1,42 @@
+ <style type="text/css">
+	head{text-align:center;}
+	
+	h1 {color: #000000;
+		font-family: sans-serif;
+		text-align:center;
+		}
+	p {color: grey;
+		size: px36; 
+		font-family: arial;
+		text-align:center;
+	}
+
+	h4 {color: grey;
+		size: px45;
+		font-family: arial;
+		text-align:center;
+		
+	}
+
+	ul {text-align:center;}
+
+	text {text-indent:10px;
+		color:#996633;
+		text-align:center;}
+		
+	#link{font-size:20px;
+			padding:5px;
+			margin:3;
+			color:#000000;
+			float:right;
+			position:fixed;
+			text-indent:80%;
+			width:100%;
+			font-family:sans-serif;
+			background:#E5E8F9;
+			opacity:0.50;
+			text-align:left;
+			}
+			
+	
+</style>

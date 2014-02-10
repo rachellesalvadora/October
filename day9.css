@@ -1,0 +1,33 @@
+	#link{font-size:20px;
+		padding:5px;
+		margin:3;
+		color:#000000;
+		float:right;
+		position:fixed;
+		text-indent:80%;
+		width:100%;
+		top:10px;
+		font-family:sans-serif;
+		background:#E5E8F9;
+		opacity:0.50;
+		text-align:left;
+		}
+#div1{width:250px;
+	height:250px;
+	margin-left:60px;
+	border:3px dashed #aaaaaa;
+	padding:30px;
+	float:left;}
+#drag1{width:250px;
+	height:250px;
+	float:left;}
+h1{font-size:80px;
+	font-family:sans-serif;
+	color:#CC7E31;
+	margin-top:150px;
+	margin-left:60px;
+	line-height:20px;}
+h4{font-size:30px;
+	font-family:sans-serif;
+	margin-left:800px;
+	width:40px;}

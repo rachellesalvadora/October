@@ -1,0 +1,31 @@
+	#link{font-size:20px;
+		padding:5px;
+		margin:3;
+		color:#000000;
+		float:right;
+		position:fixed;
+		text-indent:80%;
+		width:100%;
+		top:10px;
+		font-family:sans-serif;
+		background:#E5E8F9;
+		opacity:0.50;
+		text-align:left;
+		}
+
+	body{background-image:url(images/c.jpg);
+		}
+		
+	#canvas1,#canvas2,#canvas3,#canvas4,#canvas5{
+			margin-left:50px;
+			padding:10px;
+			background:#ffffff;
+			border:#000000 1px solid;
+		}
+		
+	
+
+
+
+
+
